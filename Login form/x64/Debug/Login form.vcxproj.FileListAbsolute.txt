@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Login form\Login form\x64\Debug\Login form.vcxproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Login form\Login form\x64\Debug\Login form.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\Login form\Login form\x64\Debug\Loginform.LoginForm.resources
+C:\Users\ACER\source\repos\Login form\Login form\x64\Debug\Login form.vcxproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Login form\Login form\x64\Debug\Loginform.MainForm.resources
+C:\Users\ACER\source\repos\Login form\Login form\x64\Debug\Loginform.RegistrationForm.resources
+C:\Users\ACER\source\repos\Login form\Login form\x64\Debug\Loginform.sendCode.resources

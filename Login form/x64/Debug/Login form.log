@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Msbuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LoginSystem.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LoginForm.cpp
+C:\Users\ACER\source\repos\Login form\Login form\LoginForm.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ACER\source\repos\Login form\Login form\LoginForm.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ACER\source\repos\Login form\Login form\RegistrationForm.h(361,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\sendCode.h(231,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\sendCode.h(236,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\sendCode.h(271,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\LoginForm.h(265,20): warning C4101: 'e': unreferenced local variable
+  Program.cpp
+C:\Users\ACER\source\repos\Login form\Login form\LoginForm.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ACER\source\repos\Login form\Login form\LoginForm.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ACER\source\repos\Login form\Login form\RegistrationForm.h(361,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\sendCode.h(231,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\sendCode.h(236,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\sendCode.h(271,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\LoginForm.h(265,20): warning C4101: 'e': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\Program.cpp(12,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  RegistrationForm.cpp
+C:\Users\ACER\source\repos\Login form\Login form\RegistrationForm.h(361,21): warning C4101: 'ex': unreferenced local variable
+  SendCode.cpp
+C:\Users\ACER\source\repos\Login form\Login form\LoginForm.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ACER\source\repos\Login form\Login form\LoginForm.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ACER\source\repos\Login form\Login form\LoginForm.h(265,20): warning C4101: 'e': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\RegistrationForm.h(361,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\sendCode.h(231,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\sendCode.h(236,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\ACER\source\repos\Login form\Login form\sendCode.h(271,20): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  LoginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Login form.vcxproj -> C:\Users\ACER\source\repos\Login form\x64\Debug\Myloginsystem.exe
